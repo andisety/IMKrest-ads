@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css");
+body{
+    font-family: 'Poppins';
+}
+#navIki{
+    color: white;
+}
+.seafood{
+    height: 60vw;
+    padding-top: 40px;
+    background-color: #746D6D;
+}
+.food{
+    height: 60vw;
+    padding-top: 40px;
+    background-color: white;
+}
+.food H1{
+    font-size: 64px;
+    color: black;
+    font-family: 'Dancing Script';
+}
+.drink{
+    height: 60vw;
+    padding-top: 40px;
+    background-color: #746D6D;
+}
+.drink H1{
+    font-size: 64px;
+    color: white;
+    font-family: 'Dancing Script';
+}
+
+.seafood H1{
+    font-size: 64px;
+    color: white;
+    font-family: 'Dancing Script';
+}
+.seafood p{
+    color: #746D6D;
+}
+.price{
+    font-size: 25px;
+    color:#FF7A00 ;
+    font-weight: bold;
+}
+
+.img-detail{
+    width: 242px;
+    height: 272px;
+}
